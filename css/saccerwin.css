@@ -11911,8 +11911,8 @@ section.padding-xl {
       transition: all 0.1s ease-in-out; }
     .portfolio-item .mask .btn-fab {
       position: absolute !important;
-      top: 46%;
-      left: 50%;
+      top: 35%;
+      left: 40%;
       display: block;
       z-index: 1010;
       -webkit-transform: scale(0);
